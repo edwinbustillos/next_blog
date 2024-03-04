@@ -7,6 +7,7 @@ Este é um projeto de blog pessoal chamado "Ghost Blog", criado como parte do de
 O Ghost Blog é um blog pessoal onde os usuários podem compartilhar suas ideias e pensamentos. O blog suporta a criação, leitura e listagem de posts.
 
 ### Screenshots
+
 ![Screen1 do Ghost Blog](./images/screen1.png)
 ![Screen2  do Ghost Blog](./images/screen2.png)
 ![Screen3  do Ghost Blog](./images/screen3.png)
@@ -31,7 +32,7 @@ Para executar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório para sua máquina local usando git clone.
 ```
-git clone https://github.com/edwinbustillos/next_blog.git
+git clone https://github.com/edwinbustillos/web-blog-nextjs-reactjs.git
 ```
 2. Navegue até o diretório do projeto e instale as dependências com npm install ou yarn.
 ```
